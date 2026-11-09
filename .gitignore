@@ -1,5 +1,7 @@
 # Custom
 *gitignored*
+leftovers/
+drafts/
 
 # Python-generated files
 __pycache__/
@@ -11,4 +13,3 @@ wheels/
 
 # Virtual environments
 .venv
-
