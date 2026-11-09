@@ -1,4 +1,4 @@
-# Do I need all that reasoning?
+# Do I need all that LLM reasoning?
 
 A personal investigation into how much reasoning effort a task needs—and whether additional accuracy justifies the extra token consumption and waiting time.
 

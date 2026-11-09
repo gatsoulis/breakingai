@@ -1,4 +1,4 @@
-# Do I need all that reasoning?
+# Do I need all that LLM reasoning?
 
 Have you ever turned up a model’s reasoning effort—not because the task seemed to require it, but because you weren’t confident that a lower setting would deliver an equally good answer? I most certainly have.
 
