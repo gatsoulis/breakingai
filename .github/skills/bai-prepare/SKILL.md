@@ -18,7 +18,7 @@ Repository layout (at the repo root):
    - `drafts/<post>` is a directory.
    - `drafts/<post>/README.md` exists (required).
    - `drafts/<post>/post.md` exists (required).
-   - `drafts/<post>/metadata.json` exists (required), is valid JSON (check by parsing it, e.g. `python3 -m json.tool`), and defines non-empty `title`, `subtitle`, `slug` and `tags` (a list).
+   - `drafts/<post>/metadata.json` exists (required), is valid JSON (check by parsing it, e.g. `python3 -m json.tool`), and defines non-empty `title`, `subheading`, `seo_title`, `slug` and `tags` (a list), and `seo_title` is at most 60 characters.
    - The first level-1 heading (`# ...`) in `post.md` is identical to `title` in `metadata.json`. If they differ, show both and stop; do not edit either file.
    - `published/<post>` does not already exist (never overwrite).
    - `leftovers/<post>` does not already exist.
